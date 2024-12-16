@@ -1,4 +1,6 @@
 data/raw/train.csv
 data/raw/test.csv
 data/processed/train_data_cleaned.csv
-data/processed/train_data_encoded.csv
+data/processed/train_data_transformed.csv
+data/processed/test_data_transformed.csv
+data/outputs/predictions_01.csv
